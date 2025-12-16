@@ -7,6 +7,9 @@ _codeql_*
 *.bin
 *.elf
 
+# RISC-V build outputs
+hello_world
+
 # Editor and IDE files
 .vscode/
 .idea/
