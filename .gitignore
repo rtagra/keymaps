@@ -1,0 +1,22 @@
+# CodeQL temporary files
+_codeql_*
+
+# Build artifacts
+*.o
+*.hex
+*.bin
+*.elf
+
+# RISC-V build outputs
+hello_world
+
+# Editor and IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
